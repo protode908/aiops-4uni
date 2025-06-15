@@ -1,0 +1,11 @@
+description,category
+"Server is down; error 502","Infrastructure"
+"User cannot connect to corporate VPN from home","Networking"
+"Forgotten password","Account"
+"Printer on 3rd floor prints blank pages","Hardware"
+"Database backup job failed with exit code 1","Infrastructure"
+"Microsoft Teams doesnt work","Software"
+"Switch port change speed every few minutes","Networking"
+"New user needs email account provisioned","Account"
+"Laptop battery doesnt last longer than one hour","Hardware"
+"CRM web app 503 Service Unavailable","Software"
