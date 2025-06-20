@@ -55,4 +55,5 @@ Colab already has Python & scikit‑learn. Open a new notebook and run:
 6 - License & Credits
 
 MIT License.
-Created as a learning prototype by me :) .
+Created as a learning prototype by me :)
+Some portions of this project were developed with assistance from AI tools such as ChatGPT (OpenAI) and Gemini (Google).
