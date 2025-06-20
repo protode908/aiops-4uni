@@ -41,8 +41,8 @@ Yes. The script is pure Python 3 and depends only on **pandas**, **scikit‑le
 Instructions: Run Instantly on Google Colab
 
 Colab already has Python & scikit‑learn. Open a new notebook and run:
-!wget -q https://raw.githubusercontent.com/YOUR_USERNAME/aiops-ticket-demo/main/aiops_ticket_classifier.py
-!wget -q https://raw.githubusercontent.com/YOUR_USERNAME/aiops-ticket-demo/main/sample_tickets.csv
+!wget -q https://raw.githubusercontent.com/protode908/aiops-ticket-demo/main/aiops_ticket_classifier.py
+!wget -q https://raw.githubusercontent.com/protode908/aiops-ticket-demo/main/sample_tickets.csv
 
 !pip install -q pandas scikit-learn joblib   # usually optional – present by default
 
