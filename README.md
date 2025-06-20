@@ -57,3 +57,6 @@ Colab already has Python & scikit‑learn. Open a new notebook and run:
 MIT License.
 Created as a learning prototype by me :)
 Some portions of this project were developed with assistance from AI tools such as ChatGPT (OpenAI) and Gemini (Google).
+## Acknowledgments
+
+This project was designed and developed as a personal learning exercise, leveraging my experience in scripting and infrastructure. Special thanks to Emiliano Gallo for his valuable help in shaping the ML components of this prototype — especially for guiding the use of `TfidfVectorizer`, the classifier pipeline structure, and conditional confidence reporting using `predict_proba()`. I also used ChatGPT to explore some best practices in scikit-learn and refine implementation details.
