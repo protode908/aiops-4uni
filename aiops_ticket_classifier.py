@@ -1,16 +1,10 @@
 # aiops_ticket_classifier.py
 """
 A minimal, self‑contained prototype that shows basic machine‑learning to support‑ticket data.
-
-Features
---------
-* One‑file script (easy to read, no packages to install locally).
-* Uses scikit‑learn’s TF‑IDF + Logistic Regression – simple, reliable, fast.
+* Uses scikit‑learn’s TF‑IDF + Logistic Regression.
 * Two sub‑commands:
-      ▸ train   – trains and saves a model from a CSV of historical tickets  
-      ▸ predict – loads the saved model and classifies a single ticket text
-* Clear, plain‑English comments that explain each step.
-* Graceful fallback for tiny demo datasets.
+      -> train   – trains and saves a model from a CSV of historical tickets  
+      -> predict – loads the saved model and classifies a single ticket text
 """
 
 import argparse
